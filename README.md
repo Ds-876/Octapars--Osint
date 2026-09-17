@@ -1,0 +1,1 @@
+Octapars is a Python-based cybersecurity reconnaissance and security testing toolkit that automates website information gathering, vulnerability scanning, and security analysis using tools like Requests, BeautifulSoup, Selenium, and Nmap.
